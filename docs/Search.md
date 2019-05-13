@@ -3,7 +3,7 @@
 简单示例
 
 ```
-<hr-search v-model='value' :placehodler='placehodler' @change='changeHandler'></hr-search>
+<hr-search :value.sync='value' :placehodler='placehodler' @change='changeHandler'></hr-search>
 ``` 
 
 Props 配置
