@@ -4,3 +4,5 @@
 * [List](/list)
 * [Li-input](/inputLi)
 * [Sms](/sms)
+* [DialogTip](/DialogTip)
+* [Search](/Search)

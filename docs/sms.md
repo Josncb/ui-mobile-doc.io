@@ -2,7 +2,7 @@
 
 简单示例
 ```
- <hr-sms :onoff='onoff' />
+ <hr-sms :onoff='onoff' :time='60' />
  ```
 
 Props 配置
