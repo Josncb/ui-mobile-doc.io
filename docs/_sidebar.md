@@ -1,8 +1,0 @@
-* [首页](/)
-* [安装](/install)
-* [Button](/button)
-* [List](/list)
-* [Li-input](/inputLi)
-* [Sms](/sms)
-* [DialogTip](/DialogTip)
-* [Search](/Search)
